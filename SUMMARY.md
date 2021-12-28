@@ -5,3 +5,4 @@
 * [Chapter 2:](chapter-2/README.md)
   * [Section 2.1: CHAR(n)](chapter-2/section-2.1-char-n.md)
   * [Section 2.2: DATE, DATETIME, TIMESTAMP, YEAR, and TIME](chapter-2/section-2.2-date-datetime-timestamp-year-and-time.md)
+  * [Section 2.3: VARCHAR(255) -- or not](chapter-2/section-2.3-varchar-255-or-not.md)
